@@ -1,0 +1,6 @@
+[book]
+authors = ["CATboardBETA"]
+language = "en"
+multilingual = false
+src = "src"
+title = "desmos-cheatsheet"
