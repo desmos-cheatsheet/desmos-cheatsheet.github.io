@@ -1,8 +1,9 @@
 # Summary
-
 [Introduction](./intro.md)
 ----
 - [Anywhere]()
+  - [Supported Functions](./funcs.md)
+  - [Substitution](./substitution/substitution.md)
   - [List Operations](./lists/listops.md)
     - [Special Indexing](./lists/indexing.md)
     - [Broadcasting and Comprehension](./lists/broadcasting.md)
@@ -16,7 +17,7 @@
   - [Special Functions](./3d/funcs.md)
 - [2d]()
   - [Special Functions](./2d/funcs.md)
-- [Geometry]()
+  - [Graph Scale](./2d/scale.md)
 ----
 [External Tools](./exttools.md)
 [Special Thanks](../thanks.md)
