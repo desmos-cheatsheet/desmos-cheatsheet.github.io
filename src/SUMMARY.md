@@ -1,5 +1,6 @@
 # Summary
 [Introduction](./intro.md)
+[Functions for Art](./pfuncs.md)
 ----
 - [Anywhere]()
   - [Supported Functions](./funcs.md)
