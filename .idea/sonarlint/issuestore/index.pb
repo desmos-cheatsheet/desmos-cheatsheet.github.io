@@ -42,3 +42,5 @@ P
  src/substitution/substitution.md,a/f/af061e88ebbc6e4d68a3f84331ff119ad5a99103
 <
 src/funcs.md,2/6/26b4495d7d216aaacc871b3d306c5f96ad204696
+=
+src/pfuncs.md,7/8/782e20ab8d9c8c5854f7b86a70c2949fb60dda5a
