@@ -52,7 +52,7 @@ Note that constants such as \\(2\\) or \\(\pi\\) are still polynomial.
 where \\(P_1(x)\\) and \\(P_2(x)\\) are both polynomial functions
 
 ### Special case: \\(\frac{1}{x}\\)
-Likely the most useful rational equation when making art is \\(\frac{\text{constant}}{\text{linear}}\\)
+Likely the most useful rational equation when making art is \\(\frac{\text{constant}}{\text{linear}}\\).
 It's full form is \\(\frac{a}{x-b}+c\\)—or `\frac{a}{x-b}+c`—given the following:
 \\[a\ne0\\\\b\text{ and }c\text{ are real numbers}\\]
 \\(a\\) defines how closely it curve towards the asymptotes as well as which direction it curves. 
