@@ -1,9 +1,10 @@
 # Summary
-
 [Introduction](./intro.md)
+[Functions for Art](./pfuncs.md)
 ----
 - [Anywhere]()
-  - [Supported Functions](./funcs.md) 
+  - [Supported Functions](./funcs.md)
+  - [Substitution](./substitution/substitution.md)
   - [List Operations](./lists/listops.md)
     - [Special Indexing](./lists/indexing.md)
     - [Broadcasting and Comprehension](./lists/broadcasting.md)

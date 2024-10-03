@@ -38,5 +38,9 @@ J
 	thanks.md,f/2/f2fa450040e75ea85626a62abc0d5f9664d170df
 ?
 src/2d/scale.md,d/4/d4aa55fe2cc804243829702de88e0dad04ac9352
+P
+ src/substitution/substitution.md,a/f/af061e88ebbc6e4d68a3f84331ff119ad5a99103
 <
 src/funcs.md,2/6/26b4495d7d216aaacc871b3d306c5f96ad204696
+=
+src/pfuncs.md,7/8/782e20ab8d9c8c5854f7b86a70c2949fb60dda5a
